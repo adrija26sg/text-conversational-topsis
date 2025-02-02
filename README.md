@@ -28,7 +28,7 @@ The script evaluates the following lightweight conversational models:
 - `microsoft/DialoGPT-small` (DialoGPT Small by Microsoft)
 
 ## Output
-![image](https://github.com/user-attachments/assets/7e15ab06-e376-49a8-84b4-f4c4ae832650)
+![image](https://github.com/adrija26sg/text-conversational-topsis/blob/main/image.png)
 
 
 ## Visualisation
