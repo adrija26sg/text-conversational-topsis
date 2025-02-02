@@ -32,7 +32,7 @@ The script evaluates the following lightweight conversational models:
 
 
 ## Visualisation
-![image]()
+![image](https://github.com/adrija26sg/text-conversational-topsis/blob/main/topsis_results_graph.png)
 
 
 
