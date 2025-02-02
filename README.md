@@ -18,7 +18,7 @@ pip install torch transformers numpy pandas scikit-learn matplotlib seaborn
 ## Usage
 Run the Python script to evaluate models and generate rankings:
 ```bash
-python modified_model_eval.py
+python text_conversational.py
 ```
 
 ## Models Used
@@ -36,5 +36,3 @@ The script evaluates the following lightweight conversational models:
 
 
 
-## License
-This project is open-source under the MIT License.
